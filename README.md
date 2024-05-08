@@ -24,7 +24,7 @@ Developed By : GOKHULRAJ V
 Reg no : 212223230064
 ```
 ## Write a C program that illustrates two processes communicating using shared memory.
-```
+```c
 #include <stdio.h>
 #include <sys/ipc.h>
 #include <sys/shm.h>
